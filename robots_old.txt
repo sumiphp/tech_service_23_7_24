@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /admin
+Disallow: /cgi-bin/
+Disallow: /js/
